@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uxpunih6/VGl0KYoRpxKPE+GK1Ft/s1Q4V9lA/VZGWS9R4RGI1v1AmYhIycFZpqtFeMpQoRIQXu7/UwH9rTcQ==",
+  "success": true,
+  "projectFilePath": "/Users/jdelano/Projects/MathematicsDemoPrep2024/MathematicsDemoPrep2024Tests/MathematicsDemoPrep2024Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/jdelano/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/jdelano/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/Users/jdelano/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/Users/jdelano/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/Users/jdelano/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/Users/jdelano/.nuget/packages/mstest.testadapter/3.0.4/mstest.testadapter.3.0.4.nupkg.sha512",
+    "/Users/jdelano/.nuget/packages/mstest.testframework/3.0.4/mstest.testframework.3.0.4.nupkg.sha512",
+    "/Users/jdelano/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/jdelano/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/jdelano/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

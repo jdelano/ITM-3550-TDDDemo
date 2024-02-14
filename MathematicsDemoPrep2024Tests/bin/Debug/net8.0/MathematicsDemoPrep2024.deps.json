@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MathematicsDemoPrep2024/1.0.0": {
+        "runtime": {
+          "MathematicsDemoPrep2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathematicsDemoPrep2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
